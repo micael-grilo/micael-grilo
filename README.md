@@ -6,7 +6,7 @@ I'm a Backend Python developer from Lisbon - Portugal 🇵🇹
 
 - 💼 Python Software Engineer.
 
-- ❤️ I love writing Python, and building fun experiments on backend tools.
+- ❤️ I love writing Python, and building fun experiments using backend tools.
 
 - 💬 Check my website [here.](https://micael.eu)
 
