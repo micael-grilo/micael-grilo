@@ -12,6 +12,11 @@ I'm a Python Software Engineer from Lisbon - Portugal 🇵🇹
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-<a href="https://micael.eu" target="_blank">
+<a href="https://micael.eu" align="right" target="_blank">
   <img align="right" alt="More about me here" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" />
 </a>
+
+
+```python
+    Uptime: "30 years, 3 months, 21 days"
+```
