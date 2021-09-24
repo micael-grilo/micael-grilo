@@ -18,5 +18,5 @@ I'm a Python Software Engineer from Lisbon - Portugal 🇵🇹
 
 
 ```python
-    Uptime: "30 years, 3 months, 21 days"
+Uptime: "30 years, 2 months, 20 days"
 ```
