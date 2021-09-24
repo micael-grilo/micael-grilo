@@ -20,7 +20,7 @@ def formatUptimeString():
 def overwriteFile():
     with open('README.md', 'r+') as file:
         data = file.readlines()
-        data[20] = formatUptimeString()
+        data[8] = formatUptimeString()
         file.seek(0)
         file.writelines(data)
         file.truncate()
