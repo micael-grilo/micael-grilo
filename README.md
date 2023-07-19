@@ -2,7 +2,7 @@
 
 I'm a Python Software Engineer from Lisbon - Portugal 🇵🇹
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=micael-grilo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&hide=stars" alt="Micael's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-grilo&layout=compact&theme=dark&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-micael-grilo.vercel.app/api?username=micael-grilo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&hide=stars" alt="Micael's github stats" /> | <img align="center" src="https://github-readme-stats-micael-grilo.vercel.app/api/top-langs/?username=micael-grilo&layout=compact&theme=dark&hide_border=true" /> |
 | ------------- | ------------- |
 
 ```python
