@@ -17,6 +17,7 @@ Uptime: "32 years, 0 month, 15 days"
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img src="https://komarev.com/ghpvc/?username=micael-grilo&style=flat-square&color=blue" alt="" align="center"/></code>
 <a href="https://micael.eu" align="right" target="_blank">
   <img align="right" alt="More about me here" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" />
 </a>
