@@ -6,7 +6,7 @@ I'm a Python Software Engineer from Lisbon - Portugal 🇵🇹
 | ------------- | ------------- |
 
 ```python
-Uptime: "33 years, 2 months, 29 days"
+Uptime: "33 years, 3 months, 0 day"
 ```
 
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></code>
