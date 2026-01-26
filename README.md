@@ -1,9 +1,26 @@
-### Hi there 👋
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Hi there 👋."/></p>
 
-I'm a Python Software Engineer from Lisbon - Portugal 🇵🇹
+## 👨‍💻 Micael Grilo (@micael-grilo)
 
-| <img align="center" src="https://github-readme-stats-micael-grilo.vercel.app/api?username=micael-grilo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&hide=stars" alt="Micael's github stats" /> | <img align="center" src="https://github-readme-stats-micael-grilo.vercel.app/api/top-langs/?username=micael-grilo&layout=compact&theme=dark&hide_border=true" /> |
-| ------------- | ------------- |
+- 🐍 **Senior Python Software/Data Engineer**
+- 🎯 Specialist in **Data Pipelines**, **ETL/ELT**, **Data Warehouses/Data Lakes**, **Big Data**, **Full-Stack** Python Applications and **DevOps**.
+- 🧠 Designing scalable, end-to-end systems for data ingestion, processing, application development, and AI/ML workloads.
+- 🤖 Enabling AI-driven products and advanced analytics through robust data platforms.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micael-grilo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-grilo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<p align="center">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=micael-grilo&theme=dark">
+</p>
+
+---
 
 ```python
 Uptime: "34 years, 6 months, 22 days"
