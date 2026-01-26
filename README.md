@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Hi there 👋."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B."/></p>
 
 ## 👨‍💻 Micael Grilo (@micael-grilo)
 
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=micael-grilo&theme=dark">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=micael-grilo&theme=dark" />
 </p>
 
 ---
