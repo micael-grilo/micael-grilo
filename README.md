@@ -2,11 +2,11 @@
 
 ## 👨‍💻 Micael Grilo (@micael-grilo)
 
-- 🐍 **Senior Python Software/Data Engineer**
-- 🎯 Specialist in **Data Pipelines**, **ETL/ELT**, **Data Warehouses/Data Lakes**, **Big Data**, **Full-Stack** Python Applications and **DevOps**.
-- 🧠 Designing scalable, end-to-end systems for data ingestion, processing, application development, and AI/ML workloads.
-- 🤖 Enabling AI-driven products and advanced analytics through robust data platforms.
-
+- 🐍 **Senior Python Software & Data Engineer**
+- 🎯 Expert in **Data Pipelines**, **ETL/ELT**, **Data Warehouses**, and **Full-Stack** Data Applications.
+- 🧠 Designing scalable, end-to-end infrastructure for modern applications and AI/ML workloads.
+- 🤖 Facilitating AI-driven products and deep analytics through resilient data engineering.
+  
 ---
 
 ## 📊 GitHub Stats
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=micael-grilo&theme=dark" />
+   <img src="https://streak-stats.demolab.com?user=micael-grilo&theme=dark" />
 </p>
 
 ---
