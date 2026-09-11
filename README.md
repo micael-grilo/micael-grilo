@@ -23,7 +23,7 @@
 ---
 
 ```python
-Uptime: "35 years, 2 months, 6 days"
+Uptime: "35 years, 2 months, 7 days"
 ```
 
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></code>
